@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yuri-portfolio/static/css/main.25f8ba89.css",
+    "main.js": "/yuri-portfolio/static/js/main.595e6ee1.js",
+    "static/media/me.jpeg": "/yuri-portfolio/static/media/me.83cb483a55c05f66e1a8.jpeg",
+    "static/media/me2.png": "/yuri-portfolio/static/media/me2.fb2a394deb5d9fbffb37.png",
+    "static/media/cv.pdf": "/yuri-portfolio/static/media/cv.6cd4cd180deb792f73d1.pdf",
+    "index.html": "/yuri-portfolio/index.html",
+    "main.25f8ba89.css.map": "/yuri-portfolio/static/css/main.25f8ba89.css.map",
+    "main.595e6ee1.js.map": "/yuri-portfolio/static/js/main.595e6ee1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25f8ba89.css",
+    "static/js/main.595e6ee1.js"
+  ]
+}
