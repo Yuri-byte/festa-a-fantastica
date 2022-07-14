@@ -39,7 +39,6 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
-  /* background-image: url(../src/assets/act3.jpg); */
   background-image: linear-gradient(to bottom, transparent 50%, #996555 50%),
                     linear-gradient(to right, #617ca2 50%, #28487d 50%);
   background-size: 5px 5px, 5px 5px;
