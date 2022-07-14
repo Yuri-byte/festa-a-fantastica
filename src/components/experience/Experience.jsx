@@ -15,38 +15,38 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
+                <h4>React</h4>
+                <small className='text-light'>Begginer</small>
+              </div>
+            </article>
+            <article className='experience__details'>
+              <AiOutlineCheck className='experience__details-icon' />
+              <div>
+                <h4>Javascript</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>HTML</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>CSS</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
-            <article className='experience__details'>
+            {/* <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
                 <h4>Node.js</h4>
                 <small className='text-light'>Experienced</small>
               </div>
-            </article>
-            <article className='experience__details'>
-              <AiOutlineCheck className='experience__details-icon' />
-              <div>
-                <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
-              </div>
-            </article>
+            </article> */}
           </div>
         </div>
         {/* END OF FRONTEND */}
@@ -63,29 +63,29 @@ const Experience = () => {
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
+                <h4>MySQL</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
+                <h4>Docker</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>Python</h4>
+                <small className='text-light'>Begginer</small>
               </div>
             </article>
             <article className='experience__details'>
               <AiOutlineCheck className='experience__details-icon' />
               <div>
-                <h4>Node.js</h4>
-                <small className='text-light'>Experienced</small>
+                <h4>Java</h4>
+                <small className='text-light'>Intermediate</small>
               </div>
             </article>
           </div>

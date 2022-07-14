@@ -23,22 +23,22 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>1+ Years Working</small>
             </article>
-            <article className='about__card'>
+            {/* <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
               <small>200+ Worldwide</small>
-            </article>
+            </article> */}
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed</small>
+              <small>15+ Completed</small>
             </article>
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium natus commodi sed possimus, sint quisquam vero similique maxime ea itaque illo, cumque, impedit animi minus a ullam! Natus, numquam! Praesentium!
+            Experience as a backend developer since 2021. Actively using technologies like Docker, Node.js, MySQL and others. I'm a fast learner with a lot of interest in new challenges in my carrer. Now finishing Bachelor's in Computer Science at USP - Ribeirão preto.
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
