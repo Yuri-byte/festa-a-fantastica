@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+﻿# Software Engineer Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Yuri Schwab - 11273851
+## Luiz Felipe Triques - 10097216
 
-## Available Scripts
+O projeto é um portfolio de uma página dividido em 4 seções feito com [React](https://pt-br.reactjs.org/).
+1. **Introdução:**
+	* Uma foto do estudante com um botão para baixar o currículo em formato PDF e outro botão levando a seção de contato. Na lateral também é possível acessar o Linkedin e Github do estudante.
+2. **Sobre mim:**
+	- Essa seção apresenta mais uma foto do estudante e um breve texto descrevendo as principais tecnologias usadas pelo estudante e um pouco da sua personalidade. Também é possível clicar em outro botão que leva para a seção de contato.
+3. **Experiência de Trabalho:**
+	- Dois cards descrevem as tecnologias usadas pelo estudante, um card para as relacionadas a parte de Frontend e outro para as relacionadas a parte de Backend.
+4. **Contato:**
+	- Uma seção para entrar em contato diretamente com o estudante, é possível mandar um email ou entrar em contato através do WhatsApp ou Messenger.
 
-In the project directory, you can run:
+No final da página, existe um footer com o nome do estudante, links diretos que redirecionam para as 4 seções e links para as redes sociais do estudante.
+Um menu também segue a página na parte inferior com botões que redirecionam para as 4 seções.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> Contribuições:
+> Ambos os estudantes contribuíram com o design.
+> Yuri: Seções Introdução e sobre mim, e arquivo CSS com estilizações base.
+> Luiz: Seções Experiência de trabalho e Contato, e arquivo .md.
