@@ -3,6 +3,8 @@
 ## Yuri Schwab - 11273851
 ## Luiz Felipe Triques - 10097216
 
+Site hospedado em https://yuri-byte.github.io/yuri-portfolio/
+
 O projeto é um portfolio de uma página dividido em 4 seções feito com [React](https://pt-br.reactjs.org/).
 1. **Introdução:**
 	* Uma foto do estudante com um botão para baixar o currículo em formato PDF e outro botão levando a seção de contato. Na lateral também é possível acessar o Linkedin e Github do estudante.
